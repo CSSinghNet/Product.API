@@ -79,13 +79,14 @@ dotnet test /p:CollectCoverage=true
 
 ## API Endpoints
 
-  Method   Endpoint             Description
-  -------- -------------------- ----------------------------
-  GET      /api/products        Get all products
-  GET      /api/products/{id}   Get product by ID
-  POST     /api/products        Create new product
-  PUT      /api/products/{id}   Update product (partial)
-  DELETE   /api/products/{id}   Delete product (soft/hard)
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /api/products | Get all products |
+| GET | /api/products/{id} | Get product by ID |
+| POST | /api/products | Create new product |
+| PUT | /api/products/{id} | Update product (partial) |
+| DELETE | /api/products/{id} | Delete product (soft/hard) |
+
 
 ------------------------------------------------------------------------
 
