@@ -1,6 +1,6 @@
 # Product.API
 
-Modern .NET 8 Web API for managing products using **Clean Architecture /
+Modern .NET 10 Web API for managing products using **Clean Architecture /
 Onion Architecture**.
 
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ Onion Architecture**.
 
 ## Technologies
 
--   .NET 8
+-   .NET 10
 -   ASP.NET Core Web API
 -   Entity Framework Core 8 (SQL Server)
 -   xUnit 2.9
